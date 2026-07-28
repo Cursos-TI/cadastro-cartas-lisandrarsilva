@@ -33,7 +33,7 @@ int main() {
 
 printf("Carta 1\n");
 printf("Estado: %s\n", estado1);
-printf("Código: %s+%s\n", estado1, codigo1);
+printf("Código: %s %s\n", estado1, codigo1);
 printf("Nome da Cidade: %s\n", cidade1);
 printf("População: %d\n", populacao1);  
 printf("Área: %.2f km²\n", area1);
@@ -71,7 +71,7 @@ char estado2[2];
 
 printf("Carta 2\n");
 printf("Estado: %s\n", estado2);
-printf("Código: %s+%s\n", estado2, codigo2);
+printf("Código: %s %s\n", estado2, codigo2);
 printf("Nome da Cidade: %s\n", cidade2);
 printf("População: %d\n", populacao2);  
 printf("Área: %.2f km²\n", area2);
